@@ -1,4 +1,4 @@
-name: ldm
+name: stable-diff
 channels:
   - pytorch
   - conda-forge

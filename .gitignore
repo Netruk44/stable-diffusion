@@ -1,5 +1,6 @@
 # ignore default image save location and model symbolic link
 outputs/
+outputs_*/
 models/ldm/stable-diffusion-v1/model.ckpt
 
 # ignore a directory which serves as a place for initial images
